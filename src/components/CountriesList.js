@@ -1,18 +1,3 @@
-// import { Link } from 'react-router-dom';
-
-// const CountriesList = ({ commonName, alpha3Code , alpha2Code}) => {
-//   return (
-//     <div className="container row col-5">
-//         <img src={`https://flagpedia.net/data/flags/icon/72x54/${alpha2Code.toLowerCase()}.png`} alt="flag" />
-
-
-//       <Link to={`/${alpha3Code}`} className="list-group-item list-group-item-action">
-//         {commonName}
-//       </Link>
-//     </div>
-//   );
-// };
-// export default CountriesList
 
 import { Link } from 'react-router-dom';
 
